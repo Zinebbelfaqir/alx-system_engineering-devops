@@ -1,0 +1,2 @@
+#!/bin/bash
+touch -d --0=SCHOOL school.mgc
