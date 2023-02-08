@@ -1,2 +1,1 @@
-touch -d --0=SCHOOL school.mgc
-file school.mgc
+0 string SCHOOL School data
